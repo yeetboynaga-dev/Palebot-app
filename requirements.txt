@@ -1,0 +1,11 @@
+import streamlit as st
+import google.generativeai as genai
+import tempfile
+import base64
+import speech_recognition as sr
+from time import sleep
+import io 
+from pypdf import PdfReader
+from PIL import Image
+import pyaudio
+from gtts import gTTS
