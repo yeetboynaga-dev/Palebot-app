@@ -1,0 +1,7 @@
+streamlit
+google-generativeai
+speechrecognition
+pypdf
+pillow
+pyaudio
+gTTS
